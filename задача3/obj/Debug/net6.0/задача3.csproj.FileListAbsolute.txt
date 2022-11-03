@@ -1,0 +1,15 @@
+/Users/arina/Documents/#/задача3/bin/Debug/net6.0/задача3
+/Users/arina/Documents/#/задача3/bin/Debug/net6.0/задача3.deps.json
+/Users/arina/Documents/#/задача3/bin/Debug/net6.0/задача3.runtimeconfig.json
+/Users/arina/Documents/#/задача3/bin/Debug/net6.0/задача3.dll
+/Users/arina/Documents/#/задача3/bin/Debug/net6.0/задача3.pdb
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.csproj.AssemblyReference.cache
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.AssemblyInfoInputs.cache
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.AssemblyInfo.cs
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.csproj.CoreCompileInputs.cache
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.dll
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/refint/задача3.dll
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.pdb
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/задача3.genruntimeconfig.cache
+/Users/arina/Documents/#/задача3/obj/Debug/net6.0/ref/задача3.dll
