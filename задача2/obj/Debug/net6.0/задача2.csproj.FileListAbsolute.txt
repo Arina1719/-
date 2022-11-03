@@ -1,0 +1,15 @@
+/Users/arina/Documents/#/задача2/bin/Debug/net6.0/задача2
+/Users/arina/Documents/#/задача2/bin/Debug/net6.0/задача2.deps.json
+/Users/arina/Documents/#/задача2/bin/Debug/net6.0/задача2.runtimeconfig.json
+/Users/arina/Documents/#/задача2/bin/Debug/net6.0/задача2.dll
+/Users/arina/Documents/#/задача2/bin/Debug/net6.0/задача2.pdb
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.csproj.AssemblyReference.cache
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.AssemblyInfoInputs.cache
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.AssemblyInfo.cs
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.csproj.CoreCompileInputs.cache
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.dll
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/refint/задача2.dll
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.pdb
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/задача2.genruntimeconfig.cache
+/Users/arina/Documents/#/задача2/obj/Debug/net6.0/ref/задача2.dll
